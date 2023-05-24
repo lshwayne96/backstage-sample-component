@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-sample-component
+  annotations:
+    github.com/project-slug: lshwayne96/backstage-sample-component
+spec:
+  type: other
+  lifecycle: unknown

@@ -9,4 +9,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: user1
+  owner: group:default/readers

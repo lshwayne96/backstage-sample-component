@@ -5,7 +5,7 @@ metadata:
   description: "backstage sample component"
   annotations:
     github.com/project-slug: lshwayne96/backstage-sample-component
-    backstage.io/techdocs-ref: dir:.
+    #backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental

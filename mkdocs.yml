@@ -14,7 +14,8 @@ nav:
   
 # Theme
 theme:
-    name: mkdocs
+    name: material
+    font: false
     static_templates:
       - 404.html
 

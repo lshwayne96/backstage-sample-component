@@ -17,3 +17,6 @@ theme:
     name: mkdocs
     static_templates:
       - 404.html
+
+plugins:
+  - techdocs-core
